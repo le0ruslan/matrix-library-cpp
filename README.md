@@ -1,7 +1,5 @@
 # Matrix Library
 
-![matrix](misc/eng/images/matrixx.png)
-
 ## Overview
 
 This project is a static library for matrix operations implemented in C. It provides functions for creating, manipulating, and performing calculations on numerical matrices. This library is designed to help developers handle matrix computations efficiently, with a focus on accuracy and performance.
