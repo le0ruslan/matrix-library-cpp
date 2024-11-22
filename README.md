@@ -94,7 +94,6 @@ return 0;
 | 9   | `s21_determinant`       | Calculates the determinant of a square matrix.  |
 | 10  | `s21_calc_complements`| Computes the matrix of algebraic complements.         |
 | 11  | `s21_inverse_matrix`        | Calculates the inverse of a matrix (if determinant ≠ 0).                            |
- |
 
 ---
 
